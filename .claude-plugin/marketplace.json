@@ -11,6 +11,11 @@
       "description": "Production-grade SEO skills for Claude Code. Currently includes schema-architect: a guided workflow that detects site type, ingests your site architecture, recommends the right schema types, and generates JSON-LD validated against validator.schema.org and Google's Rich Results Test before delivery.",
       "version": "0.1.0",
       "category": "seo",
+      "homepage": "https://github.com/brandon468/seo-skills",
+      "author": {
+        "name": "Brandon Jarman",
+        "url": "https://github.com/brandon468"
+      },
       "tags": ["seo", "schema", "structured-data", "json-ld", "rich-results"]
     }
   ]
