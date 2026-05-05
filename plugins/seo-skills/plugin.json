@@ -1,0 +1,14 @@
+{
+  "name": "seo-skills",
+  "version": "0.1.0",
+  "description": "Production-grade SEO skills for Claude Code. Includes schema-architect for guided, validated JSON-LD schema generation.",
+  "author": {
+    "name": "Brandon Jarman",
+    "email": "brandon468@users.noreply.github.com",
+    "url": "https://digitaljarmarketing.com"
+  },
+  "homepage": "https://github.com/brandon468/seo-skills",
+  "repository": "https://github.com/brandon468/seo-skills",
+  "license": "MIT",
+  "keywords": ["seo", "schema", "structured-data", "json-ld", "rich-results", "claude-code"]
+}
